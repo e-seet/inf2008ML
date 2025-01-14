@@ -10,3 +10,13 @@
 | Seet Bo Xue Eddie      | [2202210](mailto:2202210@sit.singaporetech.edu.sg) |
 | Victor Tan Jia Xuan    | [2301787](mailto:2301787@sit.singaporetech.edu.sg) |
 | Yen Cheng Keh, Yolanda | [2302026](mailto:2302026@sit.singaporetech.edu.sg) |
+
+### Acknowledgment
+
+This project is based on the AIAP Technical Assessment Past Years Series: Hotel
+No-Show Prediction, by AI Singapore (AISG). The question prompt, accompanying
+PDFs, and dataset are directly sourced from AI Singapor for the purpose of
+learning and practice.
+
+This project serves as a sample assessment test/project for preparation in
+applying to the AI Apprenticeship Programme (AIAP®)
