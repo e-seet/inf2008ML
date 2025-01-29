@@ -11,6 +11,22 @@
 | Victor Tan Jia Xuan    | [2301787](mailto:2301787@sit.singaporetech.edu.sg) |
 | Yen Cheng Keh, Yolanda | [2302026](mailto:2302026@sit.singaporetech.edu.sg) |
 
+### Benchmark
+
+The first project that we looked at is:
+https://github.com/Wiki0224/AIAP-Technical-Assessment-Past-Years-Series/commits/main/
+
+For the first project, to retrieve the git respository of interest:
+
+1. Clone the respository git clone:
+   <https://github.com/Wiki0224/AIAP-Technical-Assessment-Past-Years-Series>
+
+2. Go to the commit of interest: git checkout
+   9822cf1a1487f9459ac71198b6d15cb8fbfaf527
+
+The second project that we looked at is:
+<https://github.com/chuanseng-ng/aiap-pyp-self>
+
 ### Acknowledgment
 
 This project is based on the AIAP Technical Assessment Past Years Series: Hotel
