@@ -24,6 +24,9 @@ For the first project, to retrieve the git respository of interest:
 2. Go to the commit of interest: git checkout
    9822cf1a1487f9459ac71198b6d15cb8fbfaf527
 
+3. Note: This is because the user removed the prediction notebook. Hence we
+   retrieve it back from commit history
+
 The second project that we looked at is:
 <https://github.com/chuanseng-ng/aiap-pyp-self>
 
