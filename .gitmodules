@@ -1,6 +1,0 @@
-[submodule "benchmark/repo2"]
-	path = benchmark/repo2
-	url = https://github.com/chuanseng-ng/aiap-pyp-self
-[submodule "benchmark/repo1"]
-	path = benchmark/repo1
-	url = https://github.com/Wiki0224/AIAP-Technical-Assessment-Past-Years-Series
