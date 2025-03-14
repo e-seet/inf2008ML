@@ -1,0 +1,6 @@
+[submodule "benchmark/repo1"]
+	path = benchmark/repo1
+	url = https://github.com/e-seet/AIAP-Technical-Assessment-Past-Years-Series.git
+[submodule "benchmark/repo2"]
+	path = benchmark/repo2
+	url = https://github.com/e-seet/aiap-pyp-self.git
